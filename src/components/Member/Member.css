@@ -1,0 +1,23 @@
+.member-container {
+  border: 1px solid lightgray;
+  margin: 12px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 5px 10px 8px 7px #888888;
+}
+.member-container img {
+  width: 350px;
+  height: 400px;
+  object-fit: cover;
+}
+.member-container .member-info {
+  padding: 5px;
+  text-align: center;
+}
+.member-container .member-info .contribute-btn {
+  background-color: rgb(14 112 85 / 67%);
+  width: 100px;
+  border-radius: 10px;
+  color: white;
+  padding: 5px;
+}

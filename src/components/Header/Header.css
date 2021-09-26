@@ -1,0 +1,7 @@
+/* header section container style  */
+.header-section {
+  text-align: center;
+  background-color: rgb(14 112 85 / 67%);
+  padding: 5px;
+  color: white;
+}

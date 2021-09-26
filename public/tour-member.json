@@ -1,0 +1,67 @@
+
+[
+    {
+      "name": "Ashfaq",
+      "age": 23,
+      "img": "./images/member-1.jpg",
+      "university": "iiuc",
+      "contribution": 1500
+    },
+    {
+      "name": "Monir",
+      "age": 23,
+      "img": "./images/member-2.jpg",
+      "university": "iiuc",
+      "contribution": 3000
+    },
+    {
+      "name": "Hridoy",
+      "age": 23,
+      "img": "./images/member-3.jpg",
+      "university": "iiuc",
+      "contribution": 2000
+    },
+    {
+      "name": "Rubayet",
+      "age": 23,
+      "img": "./images/member-4.jpg",
+      "university": "iiuc",
+      "contribution": 2500
+    },
+    {
+      "name": "Joynal",
+      "age": 23,
+      "img": "./images/member-5.jpg",
+      "university": "iiuc",
+      "contribution": 3000
+    },
+    {
+      "name": "Zahin",
+      "age": 24,
+      "img": "./images/member-6.jpg",
+      "university": "NSU",
+      "contribution": 2800
+    },
+    {
+      "name": "Arif",
+      "age": 23,
+      "img": "./images/member-7.jpg",
+      "university": "iiuc",
+      "contribution": 2600
+    },
+    {
+      "name": "Minhaj",
+      "age": 23,
+      "img": "./images/member-8.jpg",
+      "university": "iiuc",
+      "contribution": 2300
+    },
+    {
+      "name": "Fahad",
+      "age": 23,
+      "img": "./images/member-9.jpg",
+      "university": "iiuc",
+      "contribution": 3200
+    }
+    
+  ]
